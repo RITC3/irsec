@@ -15,8 +15,8 @@ html, body, #out {
           mask-image: url(eyes.png);
   -webkit-mask-repeat: no-repeat;
           mask-repeat: no-repeat;
-  -webkit-mask-size: 450px;
-          mask-size: 450px;
+  -webkit-mask-size: 750px;
+          mask-size: 750px;
   cursor: none;
 }
 
